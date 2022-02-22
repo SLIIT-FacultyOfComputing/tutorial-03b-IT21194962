@@ -2,7 +2,7 @@
 using namespace std;
 
 void print(int len, int wth);
-void input(int length, int width);
+void input(int &length, int &width);
 
 // Do not change the main() function
 int main() {
